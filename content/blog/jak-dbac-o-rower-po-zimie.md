@@ -1,7 +1,7 @@
 ---
-title: Jak dbać o rower po zimie: kompletny checklist
-description: Praktyczne kroki, aby Twój rower po zimie jeździł jak nowy — mycie, napęd, hamulce, opony.
-date: 2025-08-16
+title: "Jak dbać o rower po zimie: kompletny checklist"
+description: "Praktyczne kroki, aby Twój rower po zimie jeździł jak nowy — mycie, napęd, hamulce, opony."
+date: "2025-08-16"
 ---
 
 Po zimie Twój rower zasługuje na solidny serwis. Poniżej krótki plan:
