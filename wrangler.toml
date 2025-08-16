@@ -1,0 +1,5 @@
+name = "ecoride-detailing"
+compatibility_date = "2025-01-01"
+
+[site]
+bucket = ".vercel/output/static"
